@@ -10,10 +10,11 @@ Library
 	LCD.h
 .gitattributes
 .gitignore
+Changelog.txt
 Example.c
 Getting_Started.pdf
 LICENSE
-ReadMe
+ReadMe.txt
 
 3. How to start
 All the code you need to get running can be found in two places. The Library folder and the Example.c. If you just need to get up and
